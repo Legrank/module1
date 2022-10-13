@@ -1,5 +1,5 @@
-alert('Brandan Eich')
-alert('10')
-alert('1995')
-alert('JavaScript - это не Java')
-alert('ECMAScript')
+let sum = 0
+for (let i = 0; i < 101; i++) {
+  sum = sum + i
+}
+alert(sum)
