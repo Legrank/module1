@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Legrank/module1/issues"
   },
-  "homepage": "https://github.com/Legrank/module1#readme"
+  "homepage": "https://github.com/Legrank/module1#readme",
+  "devDependencies": {
+    "rollup": "^3.5.0"
+  }
 }
